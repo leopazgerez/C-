@@ -1,0 +1,52 @@
+public class Cuerpo
+	{
+		public Cabeza cabeza;
+		public Mano mano;
+		public Pie pie;
+		public void agarrar(Objeto objetoagarrado)
+		{
+			Mano.agarrar(objetoagarrado)		//ESTOY LLAMANDO (USANDO) EL METODO.
+		}
+		public void Cuerpo(){
+		}
+	}
+public class Mano
+	{
+		public bool ManoD = true
+		public Objeto enlmano;			 	  // creo una variable que va a representar a lo que la mano sostiene.
+		public void agarrar(Objeto objetoagarrado){      //este método va a recibir por parametro una variable de tipo objeto. 	ESTOY DEFINIENDO EL METODO
+			enlamano = objetoagarrado	 	 //En esta linea lo que hago es asignarle a la variable objetoagarrado el valor que le paso por parametro por medio del metodo.
+		}
+		public Mano(bool ManoD){
+		}
+	}
+public class Cabeza
+	{		
+		public Cabeza(){
+		}
+	}
+public class Pie
+	{
+		public Pie(){
+		}
+	}
+public class Celular:Objeto
+	{
+		public Celular(){
+		}
+	}
+public class Libro:Objeto
+	{
+		public Libro(){
+		}
+	}
+public class Vaso:Objeto
+	{
+		public Vaso(){
+		}
+	}
+public class Objeto
+	{
+		public Objeto(){
+		}
+	}

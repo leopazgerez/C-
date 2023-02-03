@@ -1,0 +1,14 @@
+C:\Users\Renso\source\repos\Mercado_Singleton+Builder\Mercado_Singleton+Builder\obj\Debug\netcoreapp3.1\Mercado_Singleton+Builder.csproj.AssemblyReference.cache
+C:\Users\Renso\source\repos\Mercado_Singleton+Builder\Mercado_Singleton+Builder\obj\Debug\netcoreapp3.1\Mercado_Singleton+Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renso\source\repos\Mercado_Singleton+Builder\Mercado_Singleton+Builder\obj\Debug\netcoreapp3.1\Mercado_Singleton+Builder.AssemblyInfoInputs.cache
+C:\Users\Renso\source\repos\Mercado_Singleton+Builder\Mercado_Singleton+Builder\obj\Debug\netcoreapp3.1\Mercado_Singleton+Builder.AssemblyInfo.cs
+C:\Users\Renso\source\repos\Mercado_Singleton+Builder\Mercado_Singleton+Builder\obj\Debug\netcoreapp3.1\Mercado_Singleton+Builder.csproj.CoreCompileInputs.cache
+C:\Users\Renso\source\repos\Mercado_Singleton+Builder\Mercado_Singleton+Builder\bin\Debug\netcoreapp3.1\Mercado_Singleton+Builder.exe
+C:\Users\Renso\source\repos\Mercado_Singleton+Builder\Mercado_Singleton+Builder\bin\Debug\netcoreapp3.1\Mercado_Singleton+Builder.deps.json
+C:\Users\Renso\source\repos\Mercado_Singleton+Builder\Mercado_Singleton+Builder\bin\Debug\netcoreapp3.1\Mercado_Singleton+Builder.runtimeconfig.json
+C:\Users\Renso\source\repos\Mercado_Singleton+Builder\Mercado_Singleton+Builder\bin\Debug\netcoreapp3.1\Mercado_Singleton+Builder.runtimeconfig.dev.json
+C:\Users\Renso\source\repos\Mercado_Singleton+Builder\Mercado_Singleton+Builder\bin\Debug\netcoreapp3.1\Mercado_Singleton+Builder.dll
+C:\Users\Renso\source\repos\Mercado_Singleton+Builder\Mercado_Singleton+Builder\bin\Debug\netcoreapp3.1\Mercado_Singleton+Builder.pdb
+C:\Users\Renso\source\repos\Mercado_Singleton+Builder\Mercado_Singleton+Builder\obj\Debug\netcoreapp3.1\Mercado_Singleton+Builder.dll
+C:\Users\Renso\source\repos\Mercado_Singleton+Builder\Mercado_Singleton+Builder\obj\Debug\netcoreapp3.1\Mercado_Singleton+Builder.pdb
+C:\Users\Renso\source\repos\Mercado_Singleton+Builder\Mercado_Singleton+Builder\obj\Debug\netcoreapp3.1\Mercado_Singleton+Builder.genruntimeconfig.cache

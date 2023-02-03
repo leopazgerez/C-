@@ -1,0 +1,14 @@
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Drawing\Drawing\bin\Debug\netcoreapp3.1\Drawing.exe
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Drawing\Drawing\bin\Debug\netcoreapp3.1\Drawing.deps.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Drawing\Drawing\bin\Debug\netcoreapp3.1\Drawing.runtimeconfig.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Drawing\Drawing\bin\Debug\netcoreapp3.1\Drawing.runtimeconfig.dev.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Drawing\Drawing\bin\Debug\netcoreapp3.1\Drawing.dll
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Drawing\Drawing\bin\Debug\netcoreapp3.1\Drawing.pdb
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Drawing\Drawing\obj\Debug\netcoreapp3.1\Drawing.csproj.AssemblyReference.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Drawing\Drawing\obj\Debug\netcoreapp3.1\Drawing.GeneratedMSBuildEditorConfig.editorconfig
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Drawing\Drawing\obj\Debug\netcoreapp3.1\Drawing.AssemblyInfoInputs.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Drawing\Drawing\obj\Debug\netcoreapp3.1\Drawing.AssemblyInfo.cs
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Drawing\Drawing\obj\Debug\netcoreapp3.1\Drawing.csproj.CoreCompileInputs.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Drawing\Drawing\obj\Debug\netcoreapp3.1\Drawing.dll
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Drawing\Drawing\obj\Debug\netcoreapp3.1\Drawing.pdb
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Drawing\Drawing\obj\Debug\netcoreapp3.1\Drawing.genruntimeconfig.cache

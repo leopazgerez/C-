@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Renso\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Renso\\.nuget\\packages"
+    ]
+  }
+}

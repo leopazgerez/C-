@@ -1,0 +1,14 @@
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Cuerpe humaneLU\bin\Debug\netcoreapp3.1\Cuerpe humaneLU.exe
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Cuerpe humaneLU\bin\Debug\netcoreapp3.1\Cuerpe humaneLU.deps.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Cuerpe humaneLU\bin\Debug\netcoreapp3.1\Cuerpe humaneLU.runtimeconfig.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Cuerpe humaneLU\bin\Debug\netcoreapp3.1\Cuerpe humaneLU.runtimeconfig.dev.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Cuerpe humaneLU\bin\Debug\netcoreapp3.1\Cuerpe humaneLU.dll
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Cuerpe humaneLU\bin\Debug\netcoreapp3.1\Cuerpe humaneLU.pdb
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Cuerpe humaneLU\obj\Debug\netcoreapp3.1\Cuerpe humaneLU.csproj.AssemblyReference.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Cuerpe humaneLU\obj\Debug\netcoreapp3.1\Cuerpe humaneLU.GeneratedMSBuildEditorConfig.editorconfig
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Cuerpe humaneLU\obj\Debug\netcoreapp3.1\Cuerpe humaneLU.AssemblyInfoInputs.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Cuerpe humaneLU\obj\Debug\netcoreapp3.1\Cuerpe humaneLU.AssemblyInfo.cs
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Cuerpe humaneLU\obj\Debug\netcoreapp3.1\Cuerpe humaneLU.csproj.CoreCompileInputs.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Cuerpe humaneLU\obj\Debug\netcoreapp3.1\Cuerpe humaneLU.dll
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Cuerpe humaneLU\obj\Debug\netcoreapp3.1\Cuerpe humaneLU.pdb
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Cuerpe humaneLU\obj\Debug\netcoreapp3.1\Cuerpe humaneLU.genruntimeconfig.cache

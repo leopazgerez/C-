@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanBody", "HumanBody\HumanBody.csproj", "{8E4FACFF-0314-4483-BF99-259198ED5ED6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E4FACFF-0314-4483-BF99-259198ED5ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E4FACFF-0314-4483-BF99-259198ED5ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E4FACFF-0314-4483-BF99-259198ED5ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E4FACFF-0314-4483-BF99-259198ED5ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18574C5D-39F2-48F9-9C00-AE00D182B9CA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MERCADO_EXAMEN/1.0.0": {
+        "runtime": {
+          "MERCADO_EXAMEN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MERCADO_EXAMEN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

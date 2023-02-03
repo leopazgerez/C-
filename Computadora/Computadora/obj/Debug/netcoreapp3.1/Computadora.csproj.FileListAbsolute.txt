@@ -1,0 +1,5 @@
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Computadora\Computadora\obj\Debug\netcoreapp3.1\Computadora.csproj.AssemblyReference.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Computadora\Computadora\obj\Debug\netcoreapp3.1\Computadora.GeneratedMSBuildEditorConfig.editorconfig
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Computadora\Computadora\obj\Debug\netcoreapp3.1\Computadora.AssemblyInfoInputs.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Computadora\Computadora\obj\Debug\netcoreapp3.1\Computadora.AssemblyInfo.cs
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Computadora\Computadora\obj\Debug\netcoreapp3.1\Computadora.csproj.CoreCompileInputs.cache

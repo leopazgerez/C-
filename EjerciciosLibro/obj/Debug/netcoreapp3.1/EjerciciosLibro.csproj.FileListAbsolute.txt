@@ -1,0 +1,14 @@
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\EjerciciosLibro\bin\Debug\netcoreapp3.1\EjerciciosLibro.exe
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\EjerciciosLibro\bin\Debug\netcoreapp3.1\EjerciciosLibro.deps.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\EjerciciosLibro\bin\Debug\netcoreapp3.1\EjerciciosLibro.runtimeconfig.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\EjerciciosLibro\bin\Debug\netcoreapp3.1\EjerciciosLibro.runtimeconfig.dev.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\EjerciciosLibro\bin\Debug\netcoreapp3.1\EjerciciosLibro.dll
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\EjerciciosLibro\bin\Debug\netcoreapp3.1\EjerciciosLibro.pdb
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\EjerciciosLibro\obj\Debug\netcoreapp3.1\EjerciciosLibro.csproj.AssemblyReference.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\EjerciciosLibro\obj\Debug\netcoreapp3.1\EjerciciosLibro.GeneratedMSBuildEditorConfig.editorconfig
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\EjerciciosLibro\obj\Debug\netcoreapp3.1\EjerciciosLibro.AssemblyInfoInputs.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\EjerciciosLibro\obj\Debug\netcoreapp3.1\EjerciciosLibro.AssemblyInfo.cs
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\EjerciciosLibro\obj\Debug\netcoreapp3.1\EjerciciosLibro.csproj.CoreCompileInputs.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\EjerciciosLibro\obj\Debug\netcoreapp3.1\EjerciciosLibro.dll
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\EjerciciosLibro\obj\Debug\netcoreapp3.1\EjerciciosLibro.pdb
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\EjerciciosLibro\obj\Debug\netcoreapp3.1\EjerciciosLibro.genruntimeconfig.cache

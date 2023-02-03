@@ -1,0 +1,14 @@
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\SerVivo\SerVivo\bin\Debug\netcoreapp3.1\SerVivo.exe
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\SerVivo\SerVivo\bin\Debug\netcoreapp3.1\SerVivo.deps.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\SerVivo\SerVivo\bin\Debug\netcoreapp3.1\SerVivo.runtimeconfig.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\SerVivo\SerVivo\bin\Debug\netcoreapp3.1\SerVivo.runtimeconfig.dev.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\SerVivo\SerVivo\bin\Debug\netcoreapp3.1\SerVivo.dll
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\SerVivo\SerVivo\bin\Debug\netcoreapp3.1\SerVivo.pdb
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\SerVivo\SerVivo\obj\Debug\netcoreapp3.1\SerVivo.csproj.AssemblyReference.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\SerVivo\SerVivo\obj\Debug\netcoreapp3.1\SerVivo.GeneratedMSBuildEditorConfig.editorconfig
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\SerVivo\SerVivo\obj\Debug\netcoreapp3.1\SerVivo.AssemblyInfoInputs.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\SerVivo\SerVivo\obj\Debug\netcoreapp3.1\SerVivo.AssemblyInfo.cs
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\SerVivo\SerVivo\obj\Debug\netcoreapp3.1\SerVivo.csproj.CoreCompileInputs.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\SerVivo\SerVivo\obj\Debug\netcoreapp3.1\SerVivo.dll
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\SerVivo\SerVivo\obj\Debug\netcoreapp3.1\SerVivo.pdb
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\SerVivo\SerVivo\obj\Debug\netcoreapp3.1\SerVivo.genruntimeconfig.cache

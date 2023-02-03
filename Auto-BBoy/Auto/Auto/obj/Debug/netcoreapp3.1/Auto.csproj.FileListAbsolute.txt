@@ -1,0 +1,7 @@
+C:\Users\Renso\source\repos\Auto\Auto\obj\Debug\netcoreapp3.1\Auto.csproj.AssemblyReference.cache
+C:\Users\Renso\source\repos\Auto\Auto\obj\Debug\netcoreapp3.1\Auto.Properties.Resources.resources
+C:\Users\Renso\source\repos\Auto\Auto\obj\Debug\netcoreapp3.1\Auto.csproj.GenerateResource.cache
+C:\Users\Renso\source\repos\Auto\Auto\obj\Debug\netcoreapp3.1\Auto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renso\source\repos\Auto\Auto\obj\Debug\netcoreapp3.1\Auto.AssemblyInfoInputs.cache
+C:\Users\Renso\source\repos\Auto\Auto\obj\Debug\netcoreapp3.1\Auto.AssemblyInfo.cs
+C:\Users\Renso\source\repos\Auto\Auto\obj\Debug\netcoreapp3.1\Auto.csproj.CoreCompileInputs.cache

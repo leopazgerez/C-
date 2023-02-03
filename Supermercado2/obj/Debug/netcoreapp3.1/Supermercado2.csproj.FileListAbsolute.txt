@@ -1,0 +1,14 @@
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Supermercado2\bin\Debug\netcoreapp3.1\Supermercado2.exe
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Supermercado2\bin\Debug\netcoreapp3.1\Supermercado2.deps.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Supermercado2\bin\Debug\netcoreapp3.1\Supermercado2.runtimeconfig.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Supermercado2\bin\Debug\netcoreapp3.1\Supermercado2.runtimeconfig.dev.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Supermercado2\bin\Debug\netcoreapp3.1\Supermercado2.dll
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Supermercado2\bin\Debug\netcoreapp3.1\Supermercado2.pdb
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Supermercado2\obj\Debug\netcoreapp3.1\Supermercado2.csproj.AssemblyReference.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Supermercado2\obj\Debug\netcoreapp3.1\Supermercado2.GeneratedMSBuildEditorConfig.editorconfig
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Supermercado2\obj\Debug\netcoreapp3.1\Supermercado2.AssemblyInfoInputs.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Supermercado2\obj\Debug\netcoreapp3.1\Supermercado2.AssemblyInfo.cs
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Supermercado2\obj\Debug\netcoreapp3.1\Supermercado2.csproj.CoreCompileInputs.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Supermercado2\obj\Debug\netcoreapp3.1\Supermercado2.dll
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Supermercado2\obj\Debug\netcoreapp3.1\Supermercado2.pdb
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Supermercado2\obj\Debug\netcoreapp3.1\Supermercado2.genruntimeconfig.cache

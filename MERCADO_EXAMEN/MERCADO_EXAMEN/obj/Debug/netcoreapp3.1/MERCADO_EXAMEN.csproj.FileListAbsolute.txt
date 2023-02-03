@@ -1,0 +1,14 @@
+C:\Users\Renso\source\repos\MERCADO_EXAMEN\MERCADO_EXAMEN\bin\Debug\netcoreapp3.1\MERCADO_EXAMEN.exe
+C:\Users\Renso\source\repos\MERCADO_EXAMEN\MERCADO_EXAMEN\bin\Debug\netcoreapp3.1\MERCADO_EXAMEN.deps.json
+C:\Users\Renso\source\repos\MERCADO_EXAMEN\MERCADO_EXAMEN\bin\Debug\netcoreapp3.1\MERCADO_EXAMEN.runtimeconfig.json
+C:\Users\Renso\source\repos\MERCADO_EXAMEN\MERCADO_EXAMEN\bin\Debug\netcoreapp3.1\MERCADO_EXAMEN.runtimeconfig.dev.json
+C:\Users\Renso\source\repos\MERCADO_EXAMEN\MERCADO_EXAMEN\bin\Debug\netcoreapp3.1\MERCADO_EXAMEN.dll
+C:\Users\Renso\source\repos\MERCADO_EXAMEN\MERCADO_EXAMEN\bin\Debug\netcoreapp3.1\MERCADO_EXAMEN.pdb
+C:\Users\Renso\source\repos\MERCADO_EXAMEN\MERCADO_EXAMEN\obj\Debug\netcoreapp3.1\MERCADO_EXAMEN.csproj.AssemblyReference.cache
+C:\Users\Renso\source\repos\MERCADO_EXAMEN\MERCADO_EXAMEN\obj\Debug\netcoreapp3.1\MERCADO_EXAMEN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renso\source\repos\MERCADO_EXAMEN\MERCADO_EXAMEN\obj\Debug\netcoreapp3.1\MERCADO_EXAMEN.AssemblyInfoInputs.cache
+C:\Users\Renso\source\repos\MERCADO_EXAMEN\MERCADO_EXAMEN\obj\Debug\netcoreapp3.1\MERCADO_EXAMEN.AssemblyInfo.cs
+C:\Users\Renso\source\repos\MERCADO_EXAMEN\MERCADO_EXAMEN\obj\Debug\netcoreapp3.1\MERCADO_EXAMEN.csproj.CoreCompileInputs.cache
+C:\Users\Renso\source\repos\MERCADO_EXAMEN\MERCADO_EXAMEN\obj\Debug\netcoreapp3.1\MERCADO_EXAMEN.dll
+C:\Users\Renso\source\repos\MERCADO_EXAMEN\MERCADO_EXAMEN\obj\Debug\netcoreapp3.1\MERCADO_EXAMEN.pdb
+C:\Users\Renso\source\repos\MERCADO_EXAMEN\MERCADO_EXAMEN\obj\Debug\netcoreapp3.1\MERCADO_EXAMEN.genruntimeconfig.cache

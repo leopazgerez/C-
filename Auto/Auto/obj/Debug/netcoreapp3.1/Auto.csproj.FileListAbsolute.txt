@@ -1,0 +1,16 @@
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Auto\Auto\obj\Debug\netcoreapp3.1\Auto.csproj.AssemblyReference.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Auto\Auto\obj\Debug\netcoreapp3.1\Auto.Properties.Resources.resources
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Auto\Auto\obj\Debug\netcoreapp3.1\Auto.csproj.GenerateResource.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Auto\Auto\obj\Debug\netcoreapp3.1\Auto.GeneratedMSBuildEditorConfig.editorconfig
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Auto\Auto\obj\Debug\netcoreapp3.1\Auto.AssemblyInfoInputs.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Auto\Auto\obj\Debug\netcoreapp3.1\Auto.AssemblyInfo.cs
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Auto\Auto\obj\Debug\netcoreapp3.1\Auto.csproj.CoreCompileInputs.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Auto\Auto\bin\Debug\netcoreapp3.1\Auto.exe
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Auto\Auto\bin\Debug\netcoreapp3.1\Auto.deps.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Auto\Auto\bin\Debug\netcoreapp3.1\Auto.runtimeconfig.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Auto\Auto\bin\Debug\netcoreapp3.1\Auto.runtimeconfig.dev.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Auto\Auto\bin\Debug\netcoreapp3.1\Auto.dll
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Auto\Auto\bin\Debug\netcoreapp3.1\Auto.pdb
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Auto\Auto\obj\Debug\netcoreapp3.1\Auto.dll
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Auto\Auto\obj\Debug\netcoreapp3.1\Auto.pdb
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Auto\Auto\obj\Debug\netcoreapp3.1\Auto.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\DesignPatternBuilder\bin\Debug\netcoreapp3.1\DesignPatternBuilder.exe
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\DesignPatternBuilder\bin\Debug\netcoreapp3.1\DesignPatternBuilder.deps.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\DesignPatternBuilder\bin\Debug\netcoreapp3.1\DesignPatternBuilder.runtimeconfig.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\DesignPatternBuilder\bin\Debug\netcoreapp3.1\DesignPatternBuilder.runtimeconfig.dev.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\DesignPatternBuilder\bin\Debug\netcoreapp3.1\DesignPatternBuilder.dll
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\DesignPatternBuilder\bin\Debug\netcoreapp3.1\DesignPatternBuilder.pdb
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\DesignPatternBuilder\obj\Debug\netcoreapp3.1\DesignPatternBuilder.csproj.AssemblyReference.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\DesignPatternBuilder\obj\Debug\netcoreapp3.1\DesignPatternBuilder.GeneratedMSBuildEditorConfig.editorconfig
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\DesignPatternBuilder\obj\Debug\netcoreapp3.1\DesignPatternBuilder.AssemblyInfoInputs.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\DesignPatternBuilder\obj\Debug\netcoreapp3.1\DesignPatternBuilder.AssemblyInfo.cs
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\DesignPatternBuilder\obj\Debug\netcoreapp3.1\DesignPatternBuilder.csproj.CoreCompileInputs.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\DesignPatternBuilder\obj\Debug\netcoreapp3.1\DesignPatternBuilder.dll
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\DesignPatternBuilder\obj\Debug\netcoreapp3.1\DesignPatternBuilder.pdb
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\DesignPatternBuilder\obj\Debug\netcoreapp3.1\DesignPatternBuilder.genruntimeconfig.cache

@@ -1,0 +1,43 @@
+public class Alumno : IComunicacion
+	{
+	public string Nom;
+		
+	public alumno(){
+
+	};
+public void Hablar(){
+	printf("Yo hablo");
+	}
+	}
+public class Robot: alumno
+	{
+	public string Mod;
+		
+	public Robot(){};
+	}
+public class Persona : alumno
+	{
+	public int edad;
+	public Persona(){};
+	{
+public class Aula
+	{
+	public Robot A1 = new Robot();
+	public Robot A2 = new Robot();
+	public Robot A3 = new Robot();
+	public Persona A4 = new Persona();
+	public Persona A5 = new Persona(); 
+	
+	public Aula(){
+	
+	};
+	public void PasarAlFrente(Alumno x){
+		x.Hablar();
+	};
+	}
+public interface IComunicacion(){
+	public void Hablar();
+
+};	
+	HACER CORRECCIONES
+	

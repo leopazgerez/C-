@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepasoParcial", "RepasoParcial.csproj", "{748EB114-AA32-4D74-95E6-800F0141FA8C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HumanBody", "HumanBody", "{2715987A-0AB7-4D79-93AC-383615E4B2CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanBodi", "..\HumanBodi\HumanBodi.csproj", "{43ADE119-B8DD-45D8-98C2-B7261A882AE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{748EB114-AA32-4D74-95E6-800F0141FA8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748EB114-AA32-4D74-95E6-800F0141FA8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748EB114-AA32-4D74-95E6-800F0141FA8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748EB114-AA32-4D74-95E6-800F0141FA8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43ADE119-B8DD-45D8-98C2-B7261A882AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43ADE119-B8DD-45D8-98C2-B7261A882AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43ADE119-B8DD-45D8-98C2-B7261A882AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43ADE119-B8DD-45D8-98C2-B7261A882AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{43ADE119-B8DD-45D8-98C2-B7261A882AE8} = {2715987A-0AB7-4D79-93AC-383615E4B2CF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD3B0A8F-7F9A-49E1-A1ED-C5478CD1C7D1}
+	EndGlobalSection
+EndGlobal

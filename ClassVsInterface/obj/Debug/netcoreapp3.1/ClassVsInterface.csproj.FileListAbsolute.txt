@@ -1,0 +1,14 @@
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\ClassVsInterface\obj\Debug\netcoreapp3.1\ClassVsInterface.csproj.AssemblyReference.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\ClassVsInterface\obj\Debug\netcoreapp3.1\ClassVsInterface.GeneratedMSBuildEditorConfig.editorconfig
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\ClassVsInterface\obj\Debug\netcoreapp3.1\ClassVsInterface.AssemblyInfoInputs.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\ClassVsInterface\obj\Debug\netcoreapp3.1\ClassVsInterface.AssemblyInfo.cs
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\ClassVsInterface\obj\Debug\netcoreapp3.1\ClassVsInterface.csproj.CoreCompileInputs.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\ClassVsInterface\bin\Debug\netcoreapp3.1\ClassVsInterface.exe
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\ClassVsInterface\bin\Debug\netcoreapp3.1\ClassVsInterface.deps.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\ClassVsInterface\bin\Debug\netcoreapp3.1\ClassVsInterface.runtimeconfig.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\ClassVsInterface\bin\Debug\netcoreapp3.1\ClassVsInterface.runtimeconfig.dev.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\ClassVsInterface\bin\Debug\netcoreapp3.1\ClassVsInterface.dll
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\ClassVsInterface\bin\Debug\netcoreapp3.1\ClassVsInterface.pdb
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\ClassVsInterface\obj\Debug\netcoreapp3.1\ClassVsInterface.dll
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\ClassVsInterface\obj\Debug\netcoreapp3.1\ClassVsInterface.pdb
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\ClassVsInterface\obj\Debug\netcoreapp3.1\ClassVsInterface.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\OneDrive\Documentos\PowerUp\Codes\C#\repos\EstrcturasDeDatos\bin\Debug\net6.0\EstrcturasDeDatos.exe
+E:\OneDrive\Documentos\PowerUp\Codes\C#\repos\EstrcturasDeDatos\bin\Debug\net6.0\EstrcturasDeDatos.deps.json
+E:\OneDrive\Documentos\PowerUp\Codes\C#\repos\EstrcturasDeDatos\bin\Debug\net6.0\EstrcturasDeDatos.runtimeconfig.json
+E:\OneDrive\Documentos\PowerUp\Codes\C#\repos\EstrcturasDeDatos\bin\Debug\net6.0\EstrcturasDeDatos.dll
+E:\OneDrive\Documentos\PowerUp\Codes\C#\repos\EstrcturasDeDatos\bin\Debug\net6.0\EstrcturasDeDatos.pdb
+E:\OneDrive\Documentos\PowerUp\Codes\C#\repos\EstrcturasDeDatos\obj\Debug\net6.0\EstrcturasDeDatos.csproj.AssemblyReference.cache
+E:\OneDrive\Documentos\PowerUp\Codes\C#\repos\EstrcturasDeDatos\obj\Debug\net6.0\EstrcturasDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Documentos\PowerUp\Codes\C#\repos\EstrcturasDeDatos\obj\Debug\net6.0\EstrcturasDeDatos.AssemblyInfoInputs.cache
+E:\OneDrive\Documentos\PowerUp\Codes\C#\repos\EstrcturasDeDatos\obj\Debug\net6.0\EstrcturasDeDatos.AssemblyInfo.cs
+E:\OneDrive\Documentos\PowerUp\Codes\C#\repos\EstrcturasDeDatos\obj\Debug\net6.0\EstrcturasDeDatos.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documentos\PowerUp\Codes\C#\repos\EstrcturasDeDatos\obj\Debug\net6.0\EstrcturasDeDatos.dll
+E:\OneDrive\Documentos\PowerUp\Codes\C#\repos\EstrcturasDeDatos\obj\Debug\net6.0\refint\EstrcturasDeDatos.dll
+E:\OneDrive\Documentos\PowerUp\Codes\C#\repos\EstrcturasDeDatos\obj\Debug\net6.0\EstrcturasDeDatos.pdb
+E:\OneDrive\Documentos\PowerUp\Codes\C#\repos\EstrcturasDeDatos\obj\Debug\net6.0\EstrcturasDeDatos.genruntimeconfig.cache
+E:\OneDrive\Documentos\PowerUp\Codes\C#\repos\EstrcturasDeDatos\obj\Debug\net6.0\ref\EstrcturasDeDatos.dll

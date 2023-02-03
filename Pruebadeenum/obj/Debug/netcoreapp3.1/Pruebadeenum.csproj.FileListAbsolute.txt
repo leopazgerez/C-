@@ -1,0 +1,14 @@
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Pruebadeenum\obj\Debug\netcoreapp3.1\Pruebadeenum.GeneratedMSBuildEditorConfig.editorconfig
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Pruebadeenum\obj\Debug\netcoreapp3.1\Pruebadeenum.AssemblyInfoInputs.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Pruebadeenum\obj\Debug\netcoreapp3.1\Pruebadeenum.AssemblyInfo.cs
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Pruebadeenum\obj\Debug\netcoreapp3.1\Pruebadeenum.csproj.CoreCompileInputs.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Pruebadeenum\bin\Debug\netcoreapp3.1\Pruebadeenum.exe
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Pruebadeenum\bin\Debug\netcoreapp3.1\Pruebadeenum.deps.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Pruebadeenum\bin\Debug\netcoreapp3.1\Pruebadeenum.runtimeconfig.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Pruebadeenum\bin\Debug\netcoreapp3.1\Pruebadeenum.runtimeconfig.dev.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Pruebadeenum\bin\Debug\netcoreapp3.1\Pruebadeenum.dll
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Pruebadeenum\bin\Debug\netcoreapp3.1\Pruebadeenum.pdb
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Pruebadeenum\obj\Debug\netcoreapp3.1\Pruebadeenum.dll
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Pruebadeenum\obj\Debug\netcoreapp3.1\Pruebadeenum.pdb
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Pruebadeenum\obj\Debug\netcoreapp3.1\Pruebadeenum.genruntimeconfig.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\Pruebadeenum\obj\Debug\netcoreapp3.1\Pruebadeenum.csproj.AssemblyReference.cache

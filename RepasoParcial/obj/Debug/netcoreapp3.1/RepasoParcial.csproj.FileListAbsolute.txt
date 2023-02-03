@@ -1,0 +1,14 @@
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\RepasoParcial\bin\Debug\netcoreapp3.1\RepasoParcial.exe
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\RepasoParcial\bin\Debug\netcoreapp3.1\RepasoParcial.deps.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\RepasoParcial\bin\Debug\netcoreapp3.1\RepasoParcial.runtimeconfig.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\RepasoParcial\bin\Debug\netcoreapp3.1\RepasoParcial.runtimeconfig.dev.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\RepasoParcial\bin\Debug\netcoreapp3.1\RepasoParcial.dll
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\RepasoParcial\bin\Debug\netcoreapp3.1\RepasoParcial.pdb
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\RepasoParcial\obj\Debug\netcoreapp3.1\RepasoParcial.csproj.AssemblyReference.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\RepasoParcial\obj\Debug\netcoreapp3.1\RepasoParcial.GeneratedMSBuildEditorConfig.editorconfig
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\RepasoParcial\obj\Debug\netcoreapp3.1\RepasoParcial.AssemblyInfoInputs.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\RepasoParcial\obj\Debug\netcoreapp3.1\RepasoParcial.AssemblyInfo.cs
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\RepasoParcial\obj\Debug\netcoreapp3.1\RepasoParcial.csproj.CoreCompileInputs.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\RepasoParcial\obj\Debug\netcoreapp3.1\RepasoParcial.dll
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\RepasoParcial\obj\Debug\netcoreapp3.1\RepasoParcial.pdb
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\RepasoParcial\obj\Debug\netcoreapp3.1\RepasoParcial.genruntimeconfig.cache

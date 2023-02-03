@@ -1,0 +1,14 @@
+C:\Users\carolina\source\repos\Proyecto Patrones de diseño(builder)\Proyecto Patrones de diseño(builder)\bin\Debug\netcoreapp3.1\Proyecto Patrones de diseño(builder).exe
+C:\Users\carolina\source\repos\Proyecto Patrones de diseño(builder)\Proyecto Patrones de diseño(builder)\bin\Debug\netcoreapp3.1\Proyecto Patrones de diseño(builder).deps.json
+C:\Users\carolina\source\repos\Proyecto Patrones de diseño(builder)\Proyecto Patrones de diseño(builder)\bin\Debug\netcoreapp3.1\Proyecto Patrones de diseño(builder).runtimeconfig.json
+C:\Users\carolina\source\repos\Proyecto Patrones de diseño(builder)\Proyecto Patrones de diseño(builder)\bin\Debug\netcoreapp3.1\Proyecto Patrones de diseño(builder).runtimeconfig.dev.json
+C:\Users\carolina\source\repos\Proyecto Patrones de diseño(builder)\Proyecto Patrones de diseño(builder)\bin\Debug\netcoreapp3.1\Proyecto Patrones de diseño(builder).dll
+C:\Users\carolina\source\repos\Proyecto Patrones de diseño(builder)\Proyecto Patrones de diseño(builder)\bin\Debug\netcoreapp3.1\Proyecto Patrones de diseño(builder).pdb
+C:\Users\carolina\source\repos\Proyecto Patrones de diseño(builder)\Proyecto Patrones de diseño(builder)\obj\Debug\netcoreapp3.1\Proyecto Patrones de diseño(builder).csproj.AssemblyReference.cache
+C:\Users\carolina\source\repos\Proyecto Patrones de diseño(builder)\Proyecto Patrones de diseño(builder)\obj\Debug\netcoreapp3.1\Proyecto Patrones de diseño(builder).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carolina\source\repos\Proyecto Patrones de diseño(builder)\Proyecto Patrones de diseño(builder)\obj\Debug\netcoreapp3.1\Proyecto Patrones de diseño(builder).AssemblyInfoInputs.cache
+C:\Users\carolina\source\repos\Proyecto Patrones de diseño(builder)\Proyecto Patrones de diseño(builder)\obj\Debug\netcoreapp3.1\Proyecto Patrones de diseño(builder).AssemblyInfo.cs
+C:\Users\carolina\source\repos\Proyecto Patrones de diseño(builder)\Proyecto Patrones de diseño(builder)\obj\Debug\netcoreapp3.1\Proyecto Patrones de diseño(builder).csproj.CoreCompileInputs.cache
+C:\Users\carolina\source\repos\Proyecto Patrones de diseño(builder)\Proyecto Patrones de diseño(builder)\obj\Debug\netcoreapp3.1\Proyecto Patrones de diseño(builder).dll
+C:\Users\carolina\source\repos\Proyecto Patrones de diseño(builder)\Proyecto Patrones de diseño(builder)\obj\Debug\netcoreapp3.1\Proyecto Patrones de diseño(builder).pdb
+C:\Users\carolina\source\repos\Proyecto Patrones de diseño(builder)\Proyecto Patrones de diseño(builder)\obj\Debug\netcoreapp3.1\Proyecto Patrones de diseño(builder).genruntimeconfig.cache

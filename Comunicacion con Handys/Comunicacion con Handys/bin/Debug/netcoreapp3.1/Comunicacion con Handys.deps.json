@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Comunicacion con Handys/1.0.0": {
+        "runtime": {
+          "Comunicacion con Handys.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Comunicacion con Handys/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

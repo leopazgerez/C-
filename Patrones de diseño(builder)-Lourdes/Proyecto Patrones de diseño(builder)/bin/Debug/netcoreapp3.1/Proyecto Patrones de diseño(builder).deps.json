@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Proyecto Patrones de diseño(builder)/1.0.0": {
+        "runtime": {
+          "Proyecto Patrones de diseño(builder).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proyecto Patrones de diseño(builder)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

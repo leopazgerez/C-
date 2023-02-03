@@ -1,0 +1,14 @@
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\HumanBody\HumanBody\obj\Debug\netcoreapp3.1\HumanBody.csproj.AssemblyReference.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\HumanBody\HumanBody\obj\Debug\netcoreapp3.1\HumanBody.GeneratedMSBuildEditorConfig.editorconfig
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\HumanBody\HumanBody\obj\Debug\netcoreapp3.1\HumanBody.AssemblyInfoInputs.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\HumanBody\HumanBody\obj\Debug\netcoreapp3.1\HumanBody.AssemblyInfo.cs
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\HumanBody\HumanBody\obj\Debug\netcoreapp3.1\HumanBody.csproj.CoreCompileInputs.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\HumanBody\HumanBody\bin\Debug\netcoreapp3.1\HumanBody.exe
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\HumanBody\HumanBody\bin\Debug\netcoreapp3.1\HumanBody.deps.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\HumanBody\HumanBody\bin\Debug\netcoreapp3.1\HumanBody.runtimeconfig.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\HumanBody\HumanBody\bin\Debug\netcoreapp3.1\HumanBody.runtimeconfig.dev.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\HumanBody\HumanBody\bin\Debug\netcoreapp3.1\HumanBody.dll
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\HumanBody\HumanBody\bin\Debug\netcoreapp3.1\HumanBody.pdb
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\HumanBody\HumanBody\obj\Debug\netcoreapp3.1\HumanBody.dll
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\HumanBody\HumanBody\obj\Debug\netcoreapp3.1\HumanBody.pdb
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\HumanBody\HumanBody\obj\Debug\netcoreapp3.1\HumanBody.genruntimeconfig.cache

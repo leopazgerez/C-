@@ -1,0 +1,14 @@
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\radio\bin\Debug\netcoreapp3.1\radio.exe
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\radio\bin\Debug\netcoreapp3.1\radio.deps.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\radio\bin\Debug\netcoreapp3.1\radio.runtimeconfig.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\radio\bin\Debug\netcoreapp3.1\radio.runtimeconfig.dev.json
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\radio\bin\Debug\netcoreapp3.1\radio.dll
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\radio\bin\Debug\netcoreapp3.1\radio.pdb
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\radio\obj\Debug\netcoreapp3.1\radio.csproj.AssemblyReference.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\radio\obj\Debug\netcoreapp3.1\radio.GeneratedMSBuildEditorConfig.editorconfig
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\radio\obj\Debug\netcoreapp3.1\radio.AssemblyInfoInputs.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\radio\obj\Debug\netcoreapp3.1\radio.AssemblyInfo.cs
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\radio\obj\Debug\netcoreapp3.1\radio.csproj.CoreCompileInputs.cache
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\radio\obj\Debug\netcoreapp3.1\radio.dll
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\radio\obj\Debug\netcoreapp3.1\radio.pdb
+E:\leone\OneDrive\Documentos\PowerUp\Codes\C#\repos\radio\obj\Debug\netcoreapp3.1\radio.genruntimeconfig.cache
